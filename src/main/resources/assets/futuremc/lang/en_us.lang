@@ -137,6 +137,8 @@ enchantment.channeling=Channeling
 enchantment.riptide=Riptide
 enchantment.impaling=Impaling
 enchantment.quick_charge=Quick Charge
+enchantment.piercing=Piercing
+enchantment.multishot=Multishot
 
 # Creative Tab
 itemGroup.futuremc=Future MC
